@@ -1,0 +1,14 @@
+1. Data Element : ZE_USERID
+Domain          : ZD_USERID
+
+2. Data Element : ZE_USERNAME
+Domain          : ZD_USERNAME
+
+3. Data Element : ZE_CATEGORY
+Domain          : ZD_CATEGORY
+
+4. Data Element : ZE_PAYMODE
+Domain          : ZD_PAYMODE
+
+5. Data Element : ZE_AMOUNT
+Domain          : ZD_AMOUNT
