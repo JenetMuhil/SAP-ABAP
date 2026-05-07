@@ -1,0 +1,20 @@
+1. Domain Name : ZD_USERID
+Data Type      : NUMC
+Length         : 5
+
+2. Domain Name : ZD_USERNAME
+Data Type      : CHAR
+Length         : 30
+
+3. Domain Name : ZD_CATEGORY
+Data Type      : CHAR
+Length         : 20
+
+4. Domain Name : ZD_PAYMODE
+Data Type      : CHAR
+Length         : 15
+
+5. Domain Name : ZD_AMOUNT
+Data Type      : CURR
+Length         : 10
+Decimals       : 2
