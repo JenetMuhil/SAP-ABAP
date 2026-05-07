@@ -1,0 +1,9 @@
+Table Name : ZUSER_INFO
+
+Fields:
+
+USER_ID     TYPE ZE_USERID
+USER_NAME   TYPE ZE_USERNAME
+
+Primary Key:
+USER_ID
