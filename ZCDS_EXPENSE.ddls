@@ -1,0 +1,14 @@
+@AbapCatalog.sqlViewName: 'ZEXPVIEW'
+@AccessControl.authorizationCheck: #NOT_REQUIRED
+@EndUserText.label: 'Expense CDS View'
+
+define view ZCDS_EXPENSE
+as select from zexpense
+{
+    key exp_id,
+    user_id,
+    category,
+    amount,
+    payment_mode,
+    exp_date
+}
